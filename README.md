@@ -59,9 +59,10 @@ As palestras foram transmitidas ao vivo no [canal do grupy-sanca no YouTube](htt
 
 * Encerramento
 
-
 Durante o encerramento, foram sorteados kits de Arduino, sendo um kit avançado, 5 kits intermediários e 5 Arduinos Nano.
 A Arquivei também sorteou brindes para os participantes que preencheram o formulário no stand da empresa.
+
+![](imgs/brindes.jpg)
 
 # Patrocinadores
 Agradecemos ao nossos patrocinadores, que tornaram possível a realização do Arduino Day São Carlos 2023.
